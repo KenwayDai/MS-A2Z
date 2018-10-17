@@ -46,6 +46,7 @@ Empower every letter on the alphabet to achieve more.
 - [Intune](https://partner.microsoft.com/zh-cn/solutions/microsoft-intune)
 - [IronRuby](https://en.wikipedia.org/wiki/IronRuby)
 - [IronPython](https://en.wikipedia.org/wiki/IronPython)
+- [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
 
 ## J
 - [JScript](http://cn.bing.com/academic/search?FORM=SAFOS&q=JScript)
