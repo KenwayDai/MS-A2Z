@@ -23,6 +23,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## D
 - [Dynamics](https://dynamics.microsoft.com/zh-cn/)
+- [DOS](https://en.wikipedia.org/wiki/MS-DOS)
 
 ## E
 - [Edge](https://www.microsoft.com/zh-cn/windows/microsoft-edge)
@@ -31,6 +32,8 @@ Empower every letter on the alphabet to achieve more.
 ## F
 - [Forms](https://forms.office.com/)
 - [Flow](https://flow.microsoft.com/en-us/)
+- [FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
+
 ## G
 - [GitHub](https://github.com)
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
@@ -73,6 +76,7 @@ Empower every letter on the alphabet to achieve more.
 - [Power BI](https://powerbi.microsoft.com/)
 - [PowerPoint](https://products.office.com/zh-cn/powerpoint)
 - [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
+- [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
 
 ## Q
 - [QBasic](https://en.wikipedia.org/wiki/QBasic)
@@ -89,6 +93,8 @@ Empower every letter on the alphabet to achieve more.
 - [Stream](https://play.google.com/store/apps/details?id=com.microsoft.stream)
 - [Surface](https://www.microsoft.com/zh-cn/surface)
 - [Sway](https://sway.office.com/)
+- [Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic)
+- [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight)
 
 ## T
 - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
@@ -103,6 +109,7 @@ Empower every letter on the alphabet to achieve more.
 - [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
 - [Visual Studio](https://visualstudio.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 
 ## W
 - [Windows](https://www.microsoft.com/zh-cn/windows)
