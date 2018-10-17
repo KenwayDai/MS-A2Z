@@ -8,6 +8,7 @@ Empower every letter on the alphabet to achieve more.
 
 - [Access](https://products.office.com/zh-cn/access)
 - [ASP.NET](https://www.asp.net/)
+- [ASP (Active Server Pages)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 - [Azure](https://azure.microsoft.com)
 
 ## B
@@ -40,6 +41,8 @@ Empower every letter on the alphabet to achieve more.
 
 ## I
 - [Intune](https://partner.microsoft.com/zh-cn/solutions/microsoft-intune)
+- [IronRuby](https://en.wikipedia.org/wiki/IronRuby)
+- [IronPython](https://en.wikipedia.org/wiki/IronPython)
 
 ## J
 - [JScript](http://cn.bing.com/academic/search?FORM=SAFOS&q=JScript)
