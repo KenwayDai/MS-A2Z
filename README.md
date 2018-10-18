@@ -18,6 +18,7 @@ Empower every letter on the alphabet to achieve more.
 - [BizTalk Server](https://en.wikipedia.org/wiki/Microsoft_BizTalk_Server)
 - [Bing](https://www.bing.com/)
 - [Blend](https://msdn.microsoft.com/zh-cn/library/jj171012.aspx)
+- [Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
 
 ## C
 - [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
@@ -57,6 +58,7 @@ Empower every letter on the alphabet to achieve more.
 - [IronRuby](https://en.wikipedia.org/wiki/IronRuby)
 - [IronPython](https://en.wikipedia.org/wiki/IronPython)
 - [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
+- [Identity Integration Server](https://en.wikipedia.org/wiki/Microsoft_Identity_Integration_Server)
 
 ## J
 - [JScript](http://cn.bing.com/academic/search?FORM=SAFOS&q=JScript)
@@ -75,6 +77,7 @@ Empower every letter on the alphabet to achieve more.
 - [MSN](https://www.msn.com/)
 - [MapPoint](https://en.wikipedia.org/wiki/Microsoft_MapPoint)
 - [Money](https://en.wikipedia.org/wiki/Microsoft_Money)
+- [Merchant Server](https://en.wikipedia.org/wiki/Microsoft_Merchant_Server)
 
 ## N
 - [NuGet](https://www.nuget.org/)
@@ -90,8 +93,10 @@ Empower every letter on the alphabet to achieve more.
 - [Power BI](https://powerbi.microsoft.com/)
 - [PowerPoint](https://products.office.com/zh-cn/powerpoint)
 - [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
+- [Project Server](https://en.wikipedia.org/wiki/Microsoft_Project_Server)
 - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
 - [Publisher](https://en.wikipedia.org/wiki/Microsoft_Publisher)
+- [Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!)
 
 ## Q
 - [QBasic](https://en.wikipedia.org/wiki/QBasic)
@@ -112,6 +117,10 @@ Empower every letter on the alphabet to achieve more.
 - [Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic)
 - [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight)
 - [Schedule Plus](https://en.wikipedia.org/wiki/Microsoft_Schedule_Plus)
+- [Site Server](https://en.wikipedia.org/wiki/Microsoft_Site_Server)
+- [Speech Server](https://en.wikipedia.org/wiki/Microsoft_Speech_Server)
+- [System Center](https://partner.microsoft.com/en-us/solutions/microsoft-system-center)
+- [Search Server](https://en.wikipedia.org/wiki/Microsoft_Search_Server)
 
 ## T
 - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
@@ -145,6 +154,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## Y
 - [Yammer](https://www.yammer.com/)
+- [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
 
 ## Z
 - [Zune](https://www.microsoft.com/zh-cn/download/details.aspx?id=27163)
