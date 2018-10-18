@@ -13,6 +13,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## B
 - [Band](https://www.microsoft.com/en-us/band)
+- [Basic](https://en.wikipedia.org/wiki/Microsoft_BASIC)
 - [Bing](https://www.bing.com/)
 - [Bland](https://msdn.microsoft.com/zh-cn/library/jj171012.aspx)
 
@@ -58,6 +59,7 @@ Empower every letter on the alphabet to achieve more.
 - [Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en)
 - [LinkedIn](https://www.linkedin.com/)
 - [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
+- [Liquid Motion](https://en.wikipedia.org/wiki/Microsoft_Liquid_Motion)
 
 ## M
 - [Microsoft](https://www.microsoft.com/)
@@ -99,6 +101,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## T
 - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
+- [Team Foundation Server](https://en.wikipedia.org/wiki/Team_Foundation_Server)
 - [To-Do List](https://todo.microsoft.com/)
 - [Translator](http://www.bing.com/Translator)
 - [Type Script](https://www.typescriptlang.org/)
@@ -121,6 +124,7 @@ Empower every letter on the alphabet to achieve more.
 ## X
 - [Xamarin](https://visualstudio.microsoft.com/xamarin)
 - [Xbox](https://www.xbox.com/zh-CN)
+- [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA)
 
 ## Y
 - [Yammer](https://www.yammer.com/)
