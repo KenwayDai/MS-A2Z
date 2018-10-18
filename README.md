@@ -1,7 +1,7 @@
 # Microsoft Technologies and Products from A to Z
 Empower every letter on the alphabet to achieve more.
 
-## #
+## \#
 - [.NET](https://www.microsoft.com/net)
 
 ## A
@@ -131,7 +131,7 @@ Empower every letter on the alphabet to achieve more.
 - [Team Foundation Server](https://en.wikipedia.org/wiki/Team_Foundation_Server)
 - [To-Do List](https://todo.microsoft.com/)
 - [Translator](http://www.bing.com/Translator)
-- [Type Script](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## U
 - [UWP](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide)
