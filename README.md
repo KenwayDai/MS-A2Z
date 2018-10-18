@@ -71,6 +71,8 @@ Empower every letter on the alphabet to achieve more.
 - [LinkedIn](https://www.linkedin.com/)
 - [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
 - [Liquid Motion](https://en.wikipedia.org/wiki/Microsoft_Liquid_Motion)
+- [Lumia](https://en.wikipedia.org/wiki/Microsoft_Lumia)
+- [LifeCam](https://en.wikipedia.org/wiki/LifeCam)
 
 ## M
 - [Microsoft](https://www.microsoft.com/)
@@ -104,6 +106,7 @@ Empower every letter on the alphabet to achieve more.
 ## R
 - [Remote Desktop](https://www.microsoft.com/zh-cn/p/remote-desktop/9wzdncrdhxxh)
 - [Response Point](https://en.wikipedia.org/wiki/Microsoft_Response_Point)
+- [RoundTable](https://en.wikipedia.org/wiki/Microsoft_RoundTable)
 
 ## S
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
@@ -121,6 +124,7 @@ Empower every letter on the alphabet to achieve more.
 - [Speech Server](https://en.wikipedia.org/wiki/Microsoft_Speech_Server)
 - [System Center](https://partner.microsoft.com/en-us/solutions/microsoft-system-center)
 - [Search Server](https://en.wikipedia.org/wiki/Microsoft_Search_Server)
+- [SideWinder](https://en.wikipedia.org/wiki/Microsoft_SideWinder)
 
 ## T
 - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
