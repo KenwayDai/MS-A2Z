@@ -7,6 +7,7 @@ Empower every letter on the alphabet to achieve more.
 ## A
 - [Access](https://products.office.com/zh-cn/access)
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires)
+- [Arc Mouse](https://www.microsoft.com/accessories/en-us/products/mice/microsoft-arc-mouse)
 - [ASP.NET](https://www.asp.net/)
 - [ASP (Active Server Pages)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 - [Azure](https://azure.microsoft.com)
@@ -43,6 +44,7 @@ Empower every letter on the alphabet to achieve more.
 - [FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 - [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage)
 - [Forefront](https://en.wikipedia.org/wiki/Microsoft_Forefront)
+- [Fresh Paint](https://www.microsoft.com/store/productId/9WZDNCRFJB13)
 
 ## G
 - [GitHub](https://github.com)
@@ -92,11 +94,13 @@ Empower every letter on the alphabet to achieve more.
 - [Outlook](https://outlook.live.com/)
 
 ## P
+- [PowerApps](https://www.microsoft.com/store/productId/9NBLGGH5Z8F3)
 - [Power BI](https://powerbi.microsoft.com/)
 - [PowerPoint](https://products.office.com/zh-cn/powerpoint)
 - [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
 - [Project Server](https://en.wikipedia.org/wiki/Microsoft_Project_Server)
 - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
+- [Print 3D](https://www.microsoft.com/store/productId/9PBPCH085S3S)
 - [Publisher](https://en.wikipedia.org/wiki/Microsoft_Publisher)
 - [Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!)
 
@@ -107,6 +111,7 @@ Empower every letter on the alphabet to achieve more.
 - [Remote Desktop](https://www.microsoft.com/zh-cn/p/remote-desktop/9wzdncrdhxxh)
 - [Response Point](https://en.wikipedia.org/wiki/Microsoft_Response_Point)
 - [RoundTable](https://en.wikipedia.org/wiki/Microsoft_RoundTable)
+- [Reader](https://www.microsoft.com/store/productId/9WZDNCRFHWG5)
 
 ## S
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
@@ -153,6 +158,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## X
 - [Xamarin](https://visualstudio.microsoft.com/xamarin)
+- [XAML](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 - [Xbox](https://www.xbox.com/zh-CN)
 - [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA)
 
