@@ -108,6 +108,7 @@ Empower every letter on the alphabet to achieve more.
 
 - [Office](https://products.office.com/zh-cn/home)
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
+- [Office Mix](https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258?ui=en-US&rs=en-US&ad=US)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
 - [OneNote](https://www.onenote.com/)
 - [Outlook](https://outlook.live.com/)
