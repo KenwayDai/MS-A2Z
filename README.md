@@ -13,6 +13,9 @@ Empower every letter on the alphabet to achieve more.
 - [ASP.NET](https://www.asp.net/)
 - [ASP (Active Server Pages)](https://en.wikipedia.org/wiki/Active_Server_Pages)
 - [Azure](https://azure.microsoft.com)
+- [Azure Notebooks](https://notebooks.azure.com/)
+- [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/what-is-ata)
+- [Antigen](https://www.microsoft.com/en-us/download/details.aspx?id=13761)
 
 ## B
 
@@ -53,11 +56,13 @@ Empower every letter on the alphabet to achieve more.
 - [Forefront](https://en.wikipedia.org/wiki/Microsoft_Forefront)
 - [Fresh Paint](https://www.microsoft.com/store/productId/9WZDNCRFJB13)
 - [FSharp](https://fsharp.org/)
+- [FAST Search Server for SharePoint](https://docs.microsoft.com/en-us/sharepoint/upgrade-and-update/search-first-migration-from-fast-search-server-for-sharepoint-2010-to-sharepoint)
 
 ## G
 
 - [GitHub](https://github.com)
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
+- [Groove Server](https://www.wikidata.org/wiki/Q851887)
 
 ## H
 
@@ -73,6 +78,8 @@ Empower every letter on the alphabet to achieve more.
 - [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
 - [Identity Integration Server](https://en.wikipedia.org/wiki/Microsoft_Identity_Integration_Server)
 - [Internet Information Services](https://www.iis.net/)
+- [InfoPath](https://en.wikipedia.org/wiki/Microsoft_InfoPath)
+- [Interix](https://en.wikipedia.org/wiki/Interix)
 
 ## J
 
@@ -99,6 +106,8 @@ Empower every letter on the alphabet to achieve more.
 - [Money](https://en.wikipedia.org/wiki/Microsoft_Money)
 - [Merchant Server](https://en.wikipedia.org/wiki/Microsoft_Merchant_Server)
 - [ml-dotnet](https://www.microsoft.com/net/apps/machinelearning-ai/ml-dotnet)
+- [Machine Learning Server](https://docs.microsoft.com/en-us/machine-learning-server/what-is-machine-learning-server)
+- [Management Reporter](https://mbs.microsoft.com/customersource/Australia/MR/downloads/service-packs/MROverview)
 
 ## N
 
@@ -112,6 +121,7 @@ Empower every letter on the alphabet to achieve more.
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
 - [OneNote](https://www.onenote.com/)
 - [Outlook](https://outlook.live.com/)
+- [Office Forms Server](https://www.wikidata.org/wiki/Q1041639)
 
 ## P
 
@@ -174,6 +184,7 @@ Empower every letter on the alphabet to achieve more.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 - [Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+- [Virtual Desktop Access](http://download.microsoft.com/download/1/1/4/114a45dd-a1f7-4910-81fd-6caf401077d0/microsoft%20vdi%20and%20vda%20faq%20v3%200.pdf)
 
 ## W
 
