@@ -174,6 +174,7 @@ Empower every letter on the alphabet to achieve more.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 - [Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+- [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
 
 ## W
 
@@ -195,7 +196,7 @@ Empower every letter on the alphabet to achieve more.
 ## Y
 
 - [Yammer](https://www.yammer.com/)
-- [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
+
 
 ## Z
 
