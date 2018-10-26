@@ -151,6 +151,7 @@ Empower every letter on the alphabet to achieve more.
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
 - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
 - [Skype](https://www.skype.com/)
+- [Skype for Business Server](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-server-2019)
 - [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
 - [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 - [Stream](https://play.google.com/store/apps/details?id=com.microsoft.stream)
