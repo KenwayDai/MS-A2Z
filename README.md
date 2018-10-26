@@ -185,6 +185,7 @@ Empower every letter on the alphabet to achieve more.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 - [Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+- [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
 - [Virtual Desktop Access](http://download.microsoft.com/download/1/1/4/114a45dd-a1f7-4910-81fd-6caf401077d0/microsoft%20vdi%20and%20vda%20faq%20v3%200.pdf)
 
 ## W
@@ -207,7 +208,7 @@ Empower every letter on the alphabet to achieve more.
 ## Y
 
 - [Yammer](https://www.yammer.com/)
-- [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
+
 
 ## Z
 
