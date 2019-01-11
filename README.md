@@ -25,7 +25,9 @@ Empower every letter on the alphabet to achieve more.
 - [BizTalk Server](https://en.wikipedia.org/wiki/Microsoft_BizTalk_Server)
 - [Bing](https://www.bing.com/)
   - [Bing Academic](https://www.bing.com/academic)
+  - [Bing Ads](bingads.microsoft.com)
   - [Bing Maps](https://www.bing.com/maps/)
+  - [Bing Translator](https://www.bing.com/translator)
 - [Blend](https://msdn.microsoft.com/zh-cn/library/jj171012.aspx)
 - [Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
 
@@ -34,6 +36,7 @@ Empower every letter on the alphabet to achieve more.
 - [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 - [Cortana](https://www.microsoft.com/zh-cn/windows/Cortana)
 - [Cosmos DB](https://azure.microsoft.com/zh-cn/services/cosmos-db/)
+- [Classroom](https://en.wikipedia.org/wiki/Microsoft_Classroom)
 - [Commerce Server](https://en.wikipedia.org/wiki/Microsoft_Commerce_Server)
 - [Content Management Server](https://en.wikipedia.org/wiki/Microsoft_Content_Management_Server)
 - [Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
@@ -41,6 +44,7 @@ Empower every letter on the alphabet to achieve more.
 ## D
 
 - [Developer Network (MSDN)](https://msdn.microsoft.com/)
+- [DirectX](https://en.wikipedia.org/wiki/DirectX)
 - [Dynamics](https://dynamics.microsoft.com/zh-cn/)
 - [DOS](https://en.wikipedia.org/wiki/MS-DOS)
 - [Docs](https://docs.microsoft.com/)
@@ -127,10 +131,11 @@ Empower every letter on the alphabet to achieve more.
   - [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
   - [Word](https://products.office.com/zh-cn/word)
   - [PowerPoint](https://products.office.com/zh-cn/powerpoint)
-  - [Sway](https://sway.office.com/)
-  - [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
+  - [Publisher](https://products.office.com/microsoft/publisher)
   - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
+  - [Sway](https://sway.office.com/)
   - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
+  - [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
 - [Office Mix](https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258?ui=en-US&rs=en-US&ad=US)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
@@ -146,7 +151,6 @@ Empower every letter on the alphabet to achieve more.
 - [Project Server](https://en.wikipedia.org/wiki/Microsoft_Project_Server)
 - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
 - [Print 3D](https://www.microsoft.com/store/productId/9PBPCH085S3S)
-- [Publisher](https://en.wikipedia.org/wiki/Microsoft_Publisher)
 - [Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!)
 
 ## Q
@@ -225,6 +229,7 @@ Empower every letter on the alphabet to achieve more.
 - [Xamarin](https://visualstudio.microsoft.com/xamarin)
 - [XAML](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 - [Xbox](https://www.xbox.com/zh-CN)
+- [Xiaoice](https://en.wikipedia.org/wiki/Xiaoice)
 - [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA)
 
 ## Y
