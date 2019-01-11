@@ -7,7 +7,6 @@ Empower every letter on the alphabet to achieve more.
 
 ## A
 
-- [Access](https://products.office.com/zh-cn/access)
 - [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires)
 - [Arc Mouse](https://www.microsoft.com/accessories/en-us/products/mice/microsoft-arc-mouse)
 - [ASP.NET](https://www.asp.net/)
@@ -16,6 +15,7 @@ Empower every letter on the alphabet to achieve more.
 - [Azure Notebooks](https://notebooks.azure.com/)
 - [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/what-is-ata)
 - [Antigen](https://www.microsoft.com/en-us/download/details.aspx?id=13761)
+- [Academic](https://academic.microsoft.com/)
 
 ## B
 
@@ -24,6 +24,10 @@ Empower every letter on the alphabet to achieve more.
 - [BackOffice Server](https://en.wikipedia.org/wiki/Microsoft_BackOffice_Server)
 - [BizTalk Server](https://en.wikipedia.org/wiki/Microsoft_BizTalk_Server)
 - [Bing](https://www.bing.com/)
+  - [Bing Academic](https://www.bing.com/academic)
+  - [Bing Ads](bingads.microsoft.com)
+  - [Bing Maps](https://www.bing.com/maps/)
+  - [Bing Translator](https://www.bing.com/translator)
 - [Blend](https://msdn.microsoft.com/zh-cn/library/jj171012.aspx)
 - [Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
 
@@ -32,24 +36,27 @@ Empower every letter on the alphabet to achieve more.
 - [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 - [Cortana](https://www.microsoft.com/zh-cn/windows/Cortana)
 - [Cosmos DB](https://azure.microsoft.com/zh-cn/services/cosmos-db/)
+- [Classroom](https://en.wikipedia.org/wiki/Microsoft_Classroom)
 - [Commerce Server](https://en.wikipedia.org/wiki/Microsoft_Commerce_Server)
 - [Content Management Server](https://en.wikipedia.org/wiki/Microsoft_Content_Management_Server)
+- [Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
 
 ## D
 
+- [Developer Network (MSDN)](https://msdn.microsoft.com/)
+- [DirectX](https://en.wikipedia.org/wiki/DirectX)
 - [Dynamics](https://dynamics.microsoft.com/zh-cn/)
 - [DOS](https://en.wikipedia.org/wiki/MS-DOS)
+- [Docs](https://docs.microsoft.com/)
 
 ## E
 
 - [Edge](https://www.microsoft.com/zh-cn/windows/microsoft-edge)
-- [Excel](https://products.office.com/zh-cn/excel)
 - [Entourage](https://en.wikipedia.org/wiki/Microsoft_Entourage)
 - [Exchange Server](https://en.wikipedia.org/wiki/Microsoft_Exchange_Server)
 
 ## F
 
-- [Forms](https://forms.office.com/)
 - [Flow](https://flow.microsoft.com/en-us/)
 - [FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 - [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage)
@@ -63,6 +70,7 @@ Empower every letter on the alphabet to achieve more.
 - [GitHub](https://github.com)
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
 - [Groove Server](https://www.wikidata.org/wiki/Q851887)
+- [Graph Engine](https://www.graphengine.io/)
 
 ## H
 
@@ -72,6 +80,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## I
 
+- [Imagine](https://imagine.microsoft.com)
 - [Intune](https://partner.microsoft.com/zh-cn/solutions/microsoft-intune)
 - [IronRuby](https://en.wikipedia.org/wiki/IronRuby)
 - [IronPython](https://en.wikipedia.org/wiki/IronPython)
@@ -92,8 +101,8 @@ Empower every letter on the alphabet to achieve more.
 ## L
 
 - [Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en)
+- [Learning](https://www.microsoft.com/en-us/learning)
 - [LinkedIn](https://www.linkedin.com/)
-- [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
 - [Liquid Motion](https://en.wikipedia.org/wiki/Microsoft_Liquid_Motion)
 - [Lumia](https://en.wikipedia.org/wiki/Microsoft_Lumia)
 - [LifeCam](https://en.wikipedia.org/wiki/LifeCam)
@@ -116,6 +125,17 @@ Empower every letter on the alphabet to achieve more.
 ## O
 
 - [Office](https://products.office.com/zh-cn/home)
+  - [Access](https://products.office.com/zh-cn/access)
+  - [Excel](https://products.office.com/zh-cn/excel)
+  - [Forms](https://forms.office.com/)
+  - [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
+  - [Word](https://products.office.com/zh-cn/word)
+  - [PowerPoint](https://products.office.com/zh-cn/powerpoint)
+  - [Publisher](https://products.office.com/microsoft/publisher)
+  - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
+  - [Sway](https://sway.office.com/)
+  - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
+  - [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
 - [Office Mix](https://support.office.com/en-us/article/important-information-about-office-mix-preview-end-of-service-c1c04f84-a7bb-4602-9645-258017155258?ui=en-US&rs=en-US&ad=US)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
@@ -127,12 +147,10 @@ Empower every letter on the alphabet to achieve more.
 
 - [PowerApps](https://www.microsoft.com/store/productId/9NBLGGH5Z8F3)
 - [Power BI](https://powerbi.microsoft.com/)
-- [PowerPoint](https://products.office.com/zh-cn/powerpoint)
 - [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
 - [Project Server](https://en.wikipedia.org/wiki/Microsoft_Project_Server)
 - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
 - [Print 3D](https://www.microsoft.com/store/productId/9PBPCH085S3S)
-- [Publisher](https://en.wikipedia.org/wiki/Microsoft_Publisher)
 - [Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!)
 
 ## Q
@@ -141,6 +159,10 @@ Empower every letter on the alphabet to achieve more.
 
 ## R
 
+- [Research Labs](https://www.microsoft.com/research/)
+  - [Research Asia Lab (MSRA)](https://www.microsoft.com/research/lab/microsoft-research-asia/)
+  - [Research India Lab (MSRI)](https://www.microsoft.com/research/lab/microsoft-research-india/)
+- [Research Open Data](https://msropendata.com/)
 - [Remote Desktop](https://www.microsoft.com/zh-cn/p/remote-desktop/9wzdncrdhxxh)
 - [Response Point](https://en.wikipedia.org/wiki/Microsoft_Response_Point)
 - [RoundTable](https://en.wikipedia.org/wiki/Microsoft_RoundTable)
@@ -149,14 +171,19 @@ Empower every letter on the alphabet to achieve more.
 ## S
 
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
-- [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
 - [Skype](https://www.skype.com/)
 - [Skype for Business Server](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-server-2019)
-- [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
-- [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+- [SQL Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
+- [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 - [Stream](https://play.google.com/store/apps/details?id=com.microsoft.stream)
-- [Surface](https://www.microsoft.com/zh-cn/surface)
-- [Sway](https://sway.office.com/)
+- [Surface (Series)](https://www.microsoft.com/zh-cn/surface)
+  - [Surface Go](https://www.microsoft.com/en-us/p/surface-go)
+  - [Surface Laptop](https://www.microsoft.com/en-us/p/surface-laptop-2)
+  - [Surface Book](https://www.microsoft.com/en-us/p/surface-book-2)
+  - [Surface Pro](https://www.microsoft.com/en-us/p/surface-pro-6)
+  - [Surface Pen](https://www.microsoft.com/en-us/p/surface-pen)
+  - [Surface Hub](https://www.microsoft.com/en-us/surface/business/surface-hub)
+  - [Surface Headphones](https://www.microsoft.com/en-us/p/surface-headphones)
 - [Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic)
 - [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight)
 - [Schedule Plus](https://en.wikipedia.org/wiki/Microsoft_Schedule_Plus)
@@ -168,8 +195,8 @@ Empower every letter on the alphabet to achieve more.
 
 ## T
 
-- [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
 - [Team Foundation Server](https://en.wikipedia.org/wiki/Team_Foundation_Server)
+- [TechNet](https://technet.microsoft.com/)
 - [To-Do List](https://todo.microsoft.com/)
 - [Translator](http://www.bing.com/Translator)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -180,11 +207,11 @@ Empower every letter on the alphabet to achieve more.
 
 ## V
 
-- [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
 - [Visual Studio](https://visualstudio.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 - [Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+- [Virtual Academy](https://mva.microsoft.com/)
 - [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
 - [Virtual Desktop Access](http://download.microsoft.com/download/1/1/4/114a45dd-a1f7-4910-81fd-6caf401077d0/microsoft%20vdi%20and%20vda%20faq%20v3%200.pdf)
 
@@ -193,7 +220,6 @@ Empower every letter on the alphabet to achieve more.
 - [Windows](https://www.microsoft.com/zh-cn/windows)
 - [Windows Mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
 - [Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone)
-- [Word](https://products.office.com/zh-cn/word)
 - [WinJS](http://winjs.azurewebsites.net/)
 - [Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 - [Wunderlist](https://en.wikipedia.org/wiki/Wunderlist)
@@ -203,6 +229,7 @@ Empower every letter on the alphabet to achieve more.
 - [Xamarin](https://visualstudio.microsoft.com/xamarin)
 - [XAML](https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 - [Xbox](https://www.xbox.com/zh-CN)
+- [Xiaoice](https://en.wikipedia.org/wiki/Xiaoice)
 - [XNA](https://en.wikipedia.org/wiki/Microsoft_XNA)
 
 ## Y
