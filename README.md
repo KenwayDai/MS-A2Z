@@ -36,6 +36,7 @@ Empower every letter on the alphabet to achieve more.
 - [Cosmos DB](https://azure.microsoft.com/zh-cn/services/cosmos-db/)
 - [Commerce Server](https://en.wikipedia.org/wiki/Microsoft_Commerce_Server)
 - [Content Management Server](https://en.wikipedia.org/wiki/Microsoft_Content_Management_Server)
+- [Cognitive Toolkit (CNTK)](https://www.microsoft.com/en-us/cognitive-toolkit/)
 
 ## D
 
@@ -65,6 +66,7 @@ Empower every letter on the alphabet to achieve more.
 - [GitHub](https://github.com)
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
 - [Groove Server](https://www.wikidata.org/wiki/Q851887)
+- [Graph Engine](https://www.graphengine.io/)
 
 ## H
 
@@ -74,6 +76,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## I
 
+- [Imagine](https://imagine.microsoft.com)
 - [Intune](https://partner.microsoft.com/zh-cn/solutions/microsoft-intune)
 - [IronRuby](https://en.wikipedia.org/wiki/IronRuby)
 - [IronPython](https://en.wikipedia.org/wiki/IronPython)
@@ -94,6 +97,7 @@ Empower every letter on the alphabet to achieve more.
 ## L
 
 - [Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en)
+- [Learning](https://www.microsoft.com/en-us/learning)
 - [LinkedIn](https://www.linkedin.com/)
 - [Liquid Motion](https://en.wikipedia.org/wiki/Microsoft_Liquid_Motion)
 - [Lumia](https://en.wikipedia.org/wiki/Microsoft_Lumia)
@@ -154,6 +158,7 @@ Empower every letter on the alphabet to achieve more.
 - [Research Labs](https://www.microsoft.com/research/)
   - [Research Asia Lab (MSRA)](https://www.microsoft.com/research/lab/microsoft-research-asia/)
   - [Research India Lab (MSRI)](https://www.microsoft.com/research/lab/microsoft-research-india/)
+- [Research Open Data](https://msropendata.com/)
 - [Remote Desktop](https://www.microsoft.com/zh-cn/p/remote-desktop/9wzdncrdhxxh)
 - [Response Point](https://en.wikipedia.org/wiki/Microsoft_Response_Point)
 - [RoundTable](https://en.wikipedia.org/wiki/Microsoft_RoundTable)
@@ -164,8 +169,8 @@ Empower every letter on the alphabet to achieve more.
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
 - [Skype](https://www.skype.com/)
 - [Skype for Business Server](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-server-2019)
-- [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
-- [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+- [SQL Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
+- [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 - [Stream](https://play.google.com/store/apps/details?id=com.microsoft.stream)
 - [Surface (Series)](https://www.microsoft.com/zh-cn/surface)
   - [Surface Go](https://www.microsoft.com/en-us/p/surface-go)
@@ -187,6 +192,7 @@ Empower every letter on the alphabet to achieve more.
 ## T
 
 - [Team Foundation Server](https://en.wikipedia.org/wiki/Team_Foundation_Server)
+- [TechNet](https://technet.microsoft.com/)
 - [To-Do List](https://todo.microsoft.com/)
 - [Translator](http://www.bing.com/Translator)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -201,6 +207,7 @@ Empower every letter on the alphabet to achieve more.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic)
 - [Vizact](https://en.wikipedia.org/wiki/Microsoft_Vizact)
+- [Virtual Academy](https://mva.microsoft.com/)
 - [Virtual Server](https://en.wikipedia.org/wiki/Microsoft_Virtual_Server)
 - [Virtual Desktop Access](http://download.microsoft.com/download/1/1/4/114a45dd-a1f7-4910-81fd-6caf401077d0/microsoft%20vdi%20and%20vda%20faq%20v3%200.pdf)
 
