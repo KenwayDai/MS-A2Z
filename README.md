@@ -97,6 +97,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## K
 
+- [Kaizala](https://products.office.com/en/business/microsoft-kaizala)
 - [Kinect](https://www.xbox.com/zh-CN/xbox-one/accessories/kinect)
 
 ## L
