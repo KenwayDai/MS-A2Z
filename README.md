@@ -49,6 +49,7 @@ Empower every letter on the alphabet to achieve more.
 - [Forms](https://forms.office.com/)
 - [Flow](https://flow.microsoft.com/en-us/)
 - [FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
+- [Fluid](https://en.wikipedia.org/wiki/Fluid_Framework)
 - [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage)
 - [Forefront](https://en.wikipedia.org/wiki/Microsoft_Forefront)
 - [Fresh Paint](https://www.microsoft.com/store/productId/9WZDNCRFJB13)
