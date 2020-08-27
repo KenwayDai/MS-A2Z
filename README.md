@@ -45,6 +45,7 @@ Empower every letter on the alphabet to achieve more.
 ## D
 
 - [Developer Network (MSDN)](https://msdn.microsoft.com/)
+- [Delve](https://delve.office.com/)
 - [DirectX](https://en.wikipedia.org/wiki/DirectX)
 - [Dynamics](https://dynamics.microsoft.com/zh-cn/)
 - [DOS](https://en.wikipedia.org/wiki/MS-DOS)
@@ -155,6 +156,7 @@ Empower every letter on the alphabet to achieve more.
 - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99)
 - [Print 3D](https://www.microsoft.com/store/productId/9PBPCH085S3S)
 - [Plus!](https://en.wikipedia.org/wiki/Microsoft_Plus!)
+- [Planner](https://tasks.office.com/)
 
 ## Q
 
@@ -195,12 +197,13 @@ Empower every letter on the alphabet to achieve more.
 - [System Center](https://partner.microsoft.com/en-us/solutions/microsoft-system-center)
 - [Search Server](https://en.wikipedia.org/wiki/Microsoft_Search_Server)
 - [SideWinder](https://en.wikipedia.org/wiki/Microsoft_SideWinder)
+- [Substrate](http://aka.ms/substrate)
 
 ## T
 
 - [Team Foundation Server](https://en.wikipedia.org/wiki/Team_Foundation_Server)
 - [TechNet](https://technet.microsoft.com/)
-- [To-Do List](https://todo.microsoft.com/)
+- [To-Do](https://todo.microsoft.com/)
 - [Translator](http://www.bing.com/Translator)
 - [TypeScript](https://www.typescriptlang.org/)
 
@@ -226,6 +229,7 @@ Empower every letter on the alphabet to achieve more.
 - [WinJS](http://winjs.azurewebsites.net/)
 - [Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 - [Wunderlist](https://en.wikipedia.org/wiki/Wunderlist)
+- [WhiteBoard](https://whiteboard.microsoft.com/)
 
 ## X
 
